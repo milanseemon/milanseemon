@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Seemon</h1>
 <h3 align="center">An Undergrad in Mathematics passionate about Data Science</h3>
 
-- 🌱 Pursuing **masters in Epidemiology at Manipal University**
+- 🌱 Pursuing **Masters in Epidemiology at Manipal University**
 
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
