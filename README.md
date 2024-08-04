@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan Seemon</h1>
 <h3 align="center">An Undergrad in Mathematics passionate about Data Science</h3>
 
-- Intern Biostatistician @ Indegene | MSc in Digital Epidemiology from Manipal Academy of Higher Education (MAHE)
+- Intern Biostatistician at Indegene
+
+- MSc in Digital Epidemiology from Manipal Academy of Higher Education (MAHE)
 
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
