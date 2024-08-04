@@ -5,7 +5,7 @@
 
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
-- 💬 Ask me about **Mathematics, Statistics, and Epidemiology**
+- 💬 Ask me about **Mathematics, Statistics, Data Analysis and Epidemiology**
 
 - 📫 Reach out on **milanseemon121@gmail.com**
 
