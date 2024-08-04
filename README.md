@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan Seemon</h1>
-<h3 align="center">An Undergrad in Mathematics passionate about Data Science</h3>
+<h3 align="center">Transforming Data into Insights | Clinical Trials Data Analyst | Passionate About Data Analysis and Public Health</h3>
 
 - Intern Biostatistician at Indegene
 
