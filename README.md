@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Milan Seemon</h1>
 <h3 align="center">An Undergrad in Mathematics passionate about Data Science</h3>
 
-- 🌱 Pursuing **Masters in Digital Epidemiology at Manipal Academy of Higher Education (MAHE)**
+- Intern Biostatistician @ Indegene | MSc in Digital Epidemiology from Manipal Academy of Higher Education (MAHE)
 
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
 - 💬 Ask me about **Mathematics, Statistics, Data Analysis and Epidemiology**
 
-- 📫 Reach out on **milanseemon121@gmail.com**
+- 📫 Reach out on **milanseemon0912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milan-seemon-01b99a173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-seemon-01b99a173" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/milan-seemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-seemon-01b99a173" height="30" width="40" /></a>
 <a href="https://kaggle.com/milanseemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="milanseemon"/></a>
 <a href="https://medium.com/@milanseemon121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@@milanseemon121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/milanseemon121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanseemon121" height="30" width="40" /></a>
