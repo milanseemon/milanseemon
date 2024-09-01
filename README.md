@@ -5,6 +5,8 @@
 
 - MSc in Digital Epidemiology from Manipal Academy of Higher Education (MAHE)
 
+- BSc in Mathematics from Marian College Kuttikkanam
+
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
 - 💬 Ask me about **Mathematics, Statistics, Data Analysis and Epidemiology**
