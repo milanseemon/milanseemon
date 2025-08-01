@@ -30,7 +30,7 @@ Transforming public health data into actionable insights with a strong foundatio
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" height="40" alt="Tableau"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/statsmodels.png" height="40" alt="Statsmodels"/>
 </p>
 
@@ -41,7 +41,7 @@ Transforming public health data into actionable insights with a strong foundatio
 - 🧮 Descriptive & Inferential Statistics  
 - 📊 Regression Modeling (Linear, Logistic, Poisson)  
 - 🔁 Survival Analysis & Time-to-Event Modeling  
-- 🧪 Clinical Trials & Observational Study Designs  
+- 🧪 Clinical Trials & Epidemiological Study Designs  
 - 📚 Systematic Reviews & Meta-Analysis (RevMan, R `meta` package)  
 - 📉 Data Cleaning, Transformation, and Reporting  
 - 📌 Interactive Dashboards using R Shiny and Tableau  
@@ -52,7 +52,7 @@ Transforming public health data into actionable insights with a strong foundatio
 <h3>🔗 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/milan-seemon/" target="_blank">
+  <a href="https://www.linkedin.com/in/milanseemon-ms/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/milanseemon" target="_blank">
@@ -74,7 +74,7 @@ Transforming public health data into actionable insights with a strong foundatio
 - 🏥 **ICMR Project on Emergency Care System Analysis** – Statistical dashboard & data workflow
 - 📉 **Systematic Review of Mindfulness Interventions**
 - 🦟 **Burden of Dengue in Kerala** – Time series & risk modeling
-- 🌍 **Spatial R Shiny App for STEMI Facilities in Vadodara**
+- 🌍 **Spatial R Shiny App for Healthcare Facilities in Vadodara**
 
 ---
 
