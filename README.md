@@ -32,6 +32,7 @@ Transforming public health data into actionable insights with a strong foundatio
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" height="40" alt="Tableau"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/statsmodels.png" height="40" alt="Statsmodels"/>
+
 </p>
 
 ---
